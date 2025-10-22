@@ -1,6 +1,6 @@
-# 🛒 CampusKart - Student Marketplace Platform
+# 🛒 CampusXchange - Student Marketplace Platform
 
-CampusKart is a full-stack web application built specifically for college students to **buy**, **sell**, **donate**, or **borrow** items within their institute. It provides a secure and user-friendly platform to promote sustainability and reuse within the student community.
+CampusXchange is a full-stack web application built specifically for college students to **buy**, **sell**, **donate**, or **borrow** items within their institute. It provides a secure and user-friendly platform to promote sustainability and reuse within the student community.
 
 ---
 
